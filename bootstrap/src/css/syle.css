@@ -1,0 +1,19 @@
+body{
+    font-family: 'Inter', sans-serif;
+    color: #333;
+}
+header{
+    height: 72px;
+}
+.card .card-body .card-title{
+    color: #333;
+}
+body hr{
+    border-top: rgba(153,153,153,0.6) 0.4px solid;
+}
+footer{
+    color: white;
+}
+footer .footer-logo{
+    padding-right: 70px;
+}
